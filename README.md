@@ -12,7 +12,7 @@ All about my life
 
 ## Portfolio
 
-List projects to come
+List of projects to come
 
 ## Comment
 
