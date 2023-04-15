@@ -1,3 +1,6 @@
+body {
+  background-color: gray;
+}
 .name {
   text-align: center;
 }
@@ -15,8 +18,8 @@
   text-indent: 20px;
   gap: 10px;
 }
-.mission{
-    font-size: 30px;
+.mission {
+  font-size: 30px;
 }
 .picture_2 {
   display: block;
@@ -24,7 +27,7 @@
   margin-right: auto;
   width: 50%;
 }
-.quote{
-    font-size: 25px;
-    text-align:center;
+.quote {
+  font-size: 25px;
+  text-align: center;
 }
